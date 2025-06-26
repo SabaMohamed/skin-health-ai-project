@@ -134,9 +134,6 @@ skin-health-ai-project/
 ├── Code/
 │   ├── Skin Disease Diagnosis System/
 │   │   ├── Skin Disease Diagnosis/
-│   │   │   ├── Data Preprocessing/
-│   │   │   │   ├── Cleaning train metadata.ipynb
-│   │   │   │   └── Combining & train_test_split data.ipynb
 │   │   │   ├── RF & XGBoost/
 │   │   │   │   ├── RF model.ipynb
 │   │   │   │   └── XGBoost Model.ipynb
@@ -152,7 +149,6 @@ skin-health-ai-project/
 │   │   ├── Skin care Recommendation Code/
 │   │   │   ├── BERT Model.ipynb
 │   │   │   ├── Filtering and test case.ipynb
-│   │   │   └── Preprocessing_reviews.ipynb
 │   │   └── Skin Type Detection Code/
 │   │       └── VGG 16 Model Training.ipynb
 │
