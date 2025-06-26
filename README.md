@@ -173,7 +173,8 @@ For questions, improvements, or collaborations, feel free to reach out:
 **Saba Mohamed**  
 Fresh Graduate from the British University in Egypt (BUE).
 
-📧 Email: saba.mohamed.abdeltawab@gmail.com
+<sub>📧 Email: saba.mohamed.abdeltawab@gmail.com</sub>
+
 <sub>🌍 LinkedIn: [linkedin.com/in/saba-mohamed-552a102b2](https://www.linkedin.com/in/saba-mohamed-552a102b2/)</sub>
 ---
 
