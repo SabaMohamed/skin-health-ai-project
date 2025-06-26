@@ -174,8 +174,10 @@ For questions, improvements, or collaborations, feel free to reach out:
 Fresh Graduate from the British University in Egypt (BUE).
 
 <sub>📧 Email: saba.mohamed.abdeltawab@gmail.com</sub>
+
 <sub></sub>
 <sub>🌍 LinkedIn: [linkedin.com/in/saba-mohamed-552a102b2](https://www.linkedin.com/in/saba-mohamed-552a102b2/)</sub>
+
 ---
 
 > 💡 *“An intelligent system should not only predict a disease or recommend a product, it should assist, explain, and adapt to its user.”*  
