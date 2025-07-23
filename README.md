@@ -127,41 +127,6 @@ To **enhance the patient experience** post-diagnosis by:
 
 ---
 
-## 📂 Project Structure
-
-```
-skin-health-ai-project/
-├── Code/
-│   ├── Skin Disease Diagnosis System/
-│   │   ├── Skin Disease Diagnosis/
-│   │   │   ├── RF & XGBoost/
-│   │   │   │   ├── RF model.ipynb
-│   │   │   │   └── XGBoost Model.ipynb
-│   │   │   └── SWIN Model/
-│   │   │       └── swin-model & feature extraction.ipynb
-│   │   ├── Multi agent Code/
-│   │   │   └── Multi_Agent system.ipynb
-│   │   ├── Test Case/
-│   │   │   └── test-skin-disease.ipynb
-│   │       # Test case that integrates SWIN ViT, RF, and the Multi-Agent system
-│
-│   ├── Skincare Recomendation System/
-│   │   ├── Skin care Recommendation Code/
-│   │   │   ├── BERT Model.ipynb
-│   │   │   ├── Filtering and test case.ipynb
-│   │   └── Skin Type Detection Code/
-│   │       └── VGG 16 Model Training.ipynb
-│
-├── images/
-│   ├── Skin_disease_pipeline.png
-│   ├── System_Structure.png
-│   └── Recommendation_System_pipeline.png
-│
-├── README.md
-```
-
----
-
 ## 📫 Contact
 
 For questions, or improvements, feel free to reach out:
